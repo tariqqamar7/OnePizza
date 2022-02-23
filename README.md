@@ -15,4 +15,6 @@ Your task is to choose which ingredients to put on your only pizza type, to maxi
 * The following 2×C lines describe the clients’ preferences in the following format:
     - First line contains integer 1≤L≤5, followed by L names of ingredients a client likes, delimited by spaces.
     - Second line contains integer 0≤D≤5, followed by D names of ingredients a client dislikes, delimited by spaces.
+
+
 Each ingredient name consists of between 1 and 15 ASCII characters. Each character is one of the lowercase letters (a-z) or a digit (0-9).
